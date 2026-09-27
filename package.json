@@ -1,0 +1,16 @@
+{
+  "name": "sample-ci-cd-app",
+  "version": "1.0.0",
+  "description": "Sample CI/CD application",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --runInBand",
+    "build": "echo Building application..."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
